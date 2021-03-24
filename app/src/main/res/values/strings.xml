@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shamba Manager</string>
+    <string name="Title_of_app">Shamba Manager</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="hometext_string">Home</string>
+    <string name="milk_today">Milk Production Today</string>
+    <string name="temporarily_value">20 litres</string>
+    <string name="milkthisweek">Total this week</string>
+    <string name="milk_this_month">Total this month</string>
+    <string name="viewmoredetails">View More Details</string>
+</resources>

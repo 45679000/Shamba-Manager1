@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371797651689",
+    "project_id": "shamba-manager-18dce",
+    "storage_bucket": "shamba-manager-18dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371797651689:android:524698fb6ff5549e6fc078",
+        "android_client_info": {
+          "package_name": "com.example.shambamanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371797651689-5or152bfo4l9am6s1f9bkh4ta5gs6cta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlERTHbyiZrUSNTuUIY7KQ9qpyuIeo1a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371797651689-5or152bfo4l9am6s1f9bkh4ta5gs6cta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
